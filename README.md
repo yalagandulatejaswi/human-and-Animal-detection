@@ -1,4 +1,4 @@
-# Video Detection & Classification System
+# human and animal Detection & Classification System
 
 Detects and classifies humans and animals in videos with optional OCR.
 
@@ -45,6 +45,7 @@ names: ['human', 'animal']
 - Detection: Faster R-CNN with ResNet50-FPN (pretrained on COCO)
 - Classification: ResNet18 (pretrained on ImageNet)
 - OCR: EasyOCR
+
 
 
 
