@@ -46,5 +46,8 @@ names: ['human', 'animal']
 - Classification: ResNet18 (pretrained on ImageNet)
 - OCR: EasyOCR
 ## Results
-![alt text](<outputs/detected (6).jpg>)
-![alt text](image.png)
+<img width="600" height="821" alt="image" src="https://github.com/user-attachments/assets/54e57e98-b1c4-4b8d-bbf1-26a0519e6a7e" />
+![detected (2)](https://github.com/user-attachments/assets/f48c97ab-3744-45e1-892a-d5d0f55e2e3e)
+![detected (1)](https://github.com/user-attachments/assets/f9db1357-4c9b-4604-8353-3889e5f6ed85)
+
+
