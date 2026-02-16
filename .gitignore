@@ -1,0 +1,9 @@
+models/
+uploads/
+outputs/
+data/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+.streamlit/
